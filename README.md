@@ -4,6 +4,7 @@ I'm Ray, a 47 year old recently divorced father of 6 living in Marshfield MO.  I
 - Tableau
 - Power BI
 - SQL Server
+
 I am also skilled in the use of other programs not directly related but still worth noting;
 - Microsoft Word
 - Powerpoint
